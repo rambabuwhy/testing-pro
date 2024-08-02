@@ -3,3 +3,5 @@
 * [Cover](README.md)
 * [API testing-1](api-testing-1.md)
 * [API testing-2](api-testing-2.md)
+* [API testing-3](api-testing-3.md)
+* [API testing-4](api-testing-4.md)
