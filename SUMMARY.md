@@ -7,3 +7,5 @@
 * [API testing-4](api-testing-4.md)
 * [CI/CD-1](ci-cd-1.md)
 * [CI/CD-2](ci-cd-2.md)
+* [git-1](git-1.md)
+* [git-2](git-2.md)
