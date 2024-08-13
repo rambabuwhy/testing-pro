@@ -12,3 +12,4 @@
 * [git-3](git-3.md)
 * [git-4](git-4.md)
 * [git-5](git-5.md)
+* [git-6](git-6.md)
