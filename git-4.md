@@ -1,5 +1,7 @@
 # git-4
 
+## revert commit:
+
 To revert a recent Git commit, you have a few options depending on your needs:
 
 #### 1. **Undo the Last Commit (but keep the changes):**
